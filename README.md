@@ -96,6 +96,18 @@ Dễ dàng tích hợp với hệ thống IoT để giám sát từ xa.
 
 🚀 Hãy triển khai ngay và trải nghiệm sự tiện lợi! 🚀
 
+bổ sung
+
+code esp8266 và cập nhật code arduino uno cũ
+
+bổ sung thêm nút bấm, modul DS1302 và màn LCD
+
+nút bấm dùng để tắt bật robot
+
+modul DS1302 dùng để tính thời gian thực 
+
+màn LCD hiển thị thông tin thời gian thực
+
 📝 Bản quyền
 
 © 2025 Nguyễn Văn Hiếu-Nhóm 10-CNTT_17-01, Khoa Công nghệ Thông tin, Đại học Đại Nam. Mọi quyền được bảo lưu.
